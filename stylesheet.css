@@ -3,5 +3,8 @@
   src: url("https://www.wos-app.rf.gd/fonts/DOS.ttf");
 }
 body {
-  font-famiily: DOS;
+  font-family: DOS;
+  background-color:black;
+  color: #7f7f7f;
+  text-align: center;
 }
